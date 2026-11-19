@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols?style=flat-square&color=blue" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -28,6 +29,8 @@ Whether you are implementing decentralized identity for Sybil resistance, Sign-I
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -145,6 +148,22 @@ We welcome additions, fixes, and updates from the Web3 decentralized identity co
 3. ✍️ Add your entry in alphabetical or star-ranked order with accurate links, licensing, and documentation.
 4. 🚀 Commit your changes (`git commit -m "feat: add [Project Name]"`).
 5. 📬 Open a Pull Request detailing what the protocol solves and its active development status.
+
+---
+
+## 💖 Support
+
+If you found this curated list helpful, please consider showing your support:
+- ⭐ **Star** this repository to help others discover it
+- 🍴 **Fork** and contribute new protocols, tools, and updates
+- 📢 **Share** it with fellow Web3 developers, researchers, and privacy advocates
+- ☕ **Buy me a coffee**: Sponsor the maintenance of open-source lists via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols&type=date&legend=top-left)](https://star-history.com/#ishandutta2007/Awesome-WEB3-Decentralized-Identity-Protocols&type=date&legend=top-left)
 
 ---
 
